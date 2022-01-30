@@ -3,4 +3,5 @@ This is a repository of Udemy course(100 Days of Python Bootcamp) prepared by An
 
 Band-Name-Generator
 <img src = "images/band-name-genrator.png" width= 1500 height= 400>
+Tip-Calculator
 <img src = "images/tip_calculator.png" >
